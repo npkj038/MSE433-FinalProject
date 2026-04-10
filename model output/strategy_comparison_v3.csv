@@ -1,0 +1,5 @@
+Strategy,Avg Buffer (min),Total Buffer (min),Avg Residual Delay,Total Residual Delay,Flights Still Delayed,% Still Delayed,Total Cost
+Baseline (no buffer),0.0,0.0,29.64,490568.0,9034,54.6%,1471704.0
+Fixed 15-min buffer,15.0,248280.0,23.04,381428.0,5800,35.0%,1392564.0
+Optimized (no connections),24.91,412318.0,19.38,320825.0,4720,28.5%,1374793.0
+Optimized (with connections),24.25,401388.0,19.7,326066.0,4783,28.9%,1379585.0

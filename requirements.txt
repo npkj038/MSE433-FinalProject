@@ -1,0 +1,11 @@
+ipykernel
+nbconvert
+nbformat
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+statsmodels
+openpyxl
+sklearn
